@@ -31,3 +31,22 @@ Developed by Alex Cabello Leiva, Cybersecurity Consultant.
 
 5. Contact:
    - For support or questions, contact Alex Cabello Leiva, Cybersecurity Consultant.
+
+
+# Requirements for Subdomain and IP Extractor (Multi-format)
+
+- Python 3.6 or higher
+- Python packages:
+  * argparse (standard library)
+  * re (standard library)
+  * colorama (for colored terminal output)
+  * openpyxl (to read Excel files)
+  * python-docx (to read Word documents)
+
+Install required packages with:
+  pip install colorama openpyxl python-docx
+
+Optional:
+- Terminal with ANSI color support for best user experience.
+
+The program is cross-platform and runs on any OS with Python 3 installed.
