@@ -1,0 +1,10 @@
+SubdomainIPExtractor
+
+Subdomain and IP Extractor - Multi-format Support
+
+This program extracts subdomains and IPv4 addresses from various input file formats including TXT, CSV, JSON, Excel (.xlsx), and Word (.docx). It reads the content of the input file, detects valid subdomains and IP addresses using pattern matching, and outputs two separate text files: one with unique subdomains and another with unique IP addresses.
+
+This tool is ideal for cybersecurity professionals and researchers who need to analyze reconnaissance or enumeration data from diverse sources and file types without manual conversion.
+
+Developed by Alex Cabello Leiva, Cybersecurity Consultant.
+
